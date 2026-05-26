@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -88,7 +87,7 @@
                 Establishing a business in the United States presents boundless opportunities, but navigating the regulatory landscape, fundraising ecosystem, and local Go-To-Market (GTM) strategies requires an experienced partner. 
             </p>
             <p class="mt-4 text-lg text-gray-500">
-                At **Capetal Labs Inc**, we don’t just provide capital advice—we offer a holistic ecosystem designed to transform high-potential startups into robust, sustainable US corporate entities.
+                At Capetal Labs, we don’t just provide capital advice—we offer a holistic ecosystem designed to transform high-potential startups into robust, sustainable US corporate entities.
             </p>
         </div>
     </section>
@@ -258,7 +257,7 @@
                 <img src="https://github.com/arunvis-cpu/images/blob/main/Capetals%20icon.png?raw=true" alt="Capetal Labs Footer Icon" class="w-8 h-8 filter brightness-0 invert opacity-60">
                 <span class="text-lg font-bold text-white tracking-tight">Capetal <span class="text-brand-crimson">Labs</span></span>
             </div>
-            <p class="text-sm text-center">&copy; 2026 Capetal Labs Inc. All rights reserved. Empowering global ventures to scale responsively.</p>
+            <p class="text-sm text-center">&copy; 2026 Capetal Labs Inc. All rights reserved. Empowering global ventures to scale responsibly.</p>
             <div class="flex space-x-4 text-lg">
                 <a href="#" class="hover:text-white transition"><i class="fa-brands fa-linkedin"></i></a>
                 <a href="#" class="hover:text-white transition"><i class="fa-brands fa-x-twitter"></i></a>
