@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Capetal Labs Inc | US Soft-Landing & Startup Accelerator</title>
+    <title>Capetal Labs Inc | US Soft-Landing & Cross-Border Venture Studio</title>
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
@@ -39,7 +39,7 @@
                 <a href="#apply" class="hover:text-brand-crimson transition">Apply</a>
             </nav>
             <div class="hidden md:block">
-                <a href="#apply" class="px-5 py-2.5 font-semibold text-white bg-brand-crimson rounded-lg hover:bg-red-800 transition shadow-sm">Join Accelerator</a>
+                <a href="#apply" class="px-5 py-2.5 font-semibold text-white bg-brand-crimson rounded-lg hover:bg-red-800 transition shadow-sm">Join Cross-Border Venture Studio</a>
             </div>
             <!-- Mobile Menu Button -->
             <button class="md:hidden text-gray-600 focus:outline-none" id="menu-btn">
@@ -60,11 +60,11 @@
                     Your Gateway to the <span class="text-brand-crimson">US Market</span>.
                 </h1>
                 <p class="text-lg text-gray-600 max-w-xl">
-                    Capetal Labs Inc is a premier accelerator built for global startups aiming to scale, fundraise, and plant strong roots in the United States. We turn cross-border ambitions into market realities.
+                    Capetal Labs Inc is a premier Cross-Border Venture Studio built for global startups and businesses aiming to scale, fundraise, and plant strong roots in the United States. We turn cross-border ambitions into market realities.
                 </p>
                 <div class="flex flex-col sm:flex-row space-y-3 sm:space-y-0 sm:space-x-4">
                     <a href="#apply" class="px-8 py-4 font-semibold text-center text-white bg-brand-crimson rounded-lg hover:bg-red-800 transition shadow-md">
-                        Apply to Accelerator
+                        Apply to Cross-Border Venture Studio
                     </a>
                     <a href="#pillars" class="px-8 py-4 font-semibold text-center text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 transition">
                         Explore Our Pillars
@@ -92,11 +92,11 @@
         </div>
     </section>
 
-    <!-- The 6 Pillars of Acceleration Section -->
+    <!-- The 6 Pillars of Cross-Border Venture Studio Section -->
     <section id="pillars" class="py-20 bg-brand-light">
         <div class="container px-6 mx-auto max-w-7xl">
             <div class="text-center max-w-3xl mx-auto mb-16">
-                <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Our Acceleration Framework</h2>
+                <h2 class="text-3xl font-bold text-gray-900 sm:text-4xl">Our Cross-Border Venture Studio Framework</h2>
                 <p class="mt-4 text-gray-600">Everything a cross-border founder needs to launch, scale, and thrive in the competitive US landscape.</p>
             </div>
 
@@ -226,7 +226,7 @@
                 </div>
 
                 <div>
-                    <label class="block text-sm font-semibold text-gray-700 mb-1">What is your primary acceleration requirement?</label>
+                    <label class="block text-sm font-semibold text-gray-700 mb-1">What is your primary Cross-Border Venture Studio requirement?</label>
                     <select class="w-full px-4 py-2.5 border border-gray-300 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-brand-crimson">
                         <option>Go-To-Market (GTM) Strategy & Customer Acquisition</option>
                         <option>Fundraising & Pitch Preparation</option>
@@ -243,7 +243,7 @@
 
                 <div>
                     <button type="submit" class="w-full py-4 text-lg font-bold text-white bg-brand-crimson rounded-lg hover:bg-red-800 transition shadow-md">
-                        Submit Application to Accelerator
+                        Submit Application to Cross-Border Venture Studio
                     </button>
                 </div>
             </form>
