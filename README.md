@@ -1,5 +1,3 @@
-# arunvis-cpu.Capetal-Labs-New
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
